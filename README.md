@@ -1,5 +1,4 @@
 # Hi there, I'm Jesus - aka [Pinto!](https://github.com/pinto-hub) 👋
-___
 
 ##### I'm a passionate self-taught FrontEnd developer from Spain.
 
