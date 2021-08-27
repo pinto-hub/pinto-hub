@@ -2,8 +2,7 @@
 
 ##### I'm a passionate self-taught FrontEnd developer from Spain.
 
-- :office: I’m currently working with Low-Code platforms in [Atos](https://www.linkedin.com/company/atos/)
-- :books: I’m currently learning [Next.js](https://nextjs.org/)
+- :books: I’m currently learning [React.js](https://es.reactjs.org/)
 - :pencil: Ask me about anything [here](https://github.com/pinto-hub/pinto-hub/issues)
 
 ## Connect with me
