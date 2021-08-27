@@ -10,9 +10,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-hermosell-8973aa175/)  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15969511/pinto) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jepinher)
 
-## Stats
+<!-- ## Stats
 
-![Top](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula) ![Pinto GitHub stats](https://github-readme-stats.vercel.app/api/?username=pinto-hub&show_icons=true&theme=dracula) 
+![Top](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula) ![Pinto GitHub stats](https://github-readme-stats.vercel.app/api/?username=pinto-hub&show_icons=true&theme=dracula) -->
 
 ## Languages
 
