@@ -2,8 +2,9 @@
 
 ##### I'm a passionate self-taught FrontEnd developer from Spain.
 
-- :books: I’m currently learning [React.js](https://es.reactjs.org/)
-- :pencil: Ask me about anything [here](https://github.com/pinto-hub/pinto-hub/issues)
+- 🏫 I'm currently studying 2º DAM "**cross-platform application development**"
+- 📚 I’m currently learning [React.js](https://es.reactjs.org/)
+- 📝 Ask me about anything [here](https://github.com/pinto-hub/pinto-hub/issues)
 
 ## Connect with me
 
