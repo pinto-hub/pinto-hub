@@ -12,9 +12,7 @@
 
 ## Stats
 
-![Pinto GitHub stats](https://github-readme-stats.vercel.app/api/?username=pinto-hub&show_icons=true&theme=dracula)
-
-![Top](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula)
+![Pinto GitHub stats](https://github-readme-stats.vercel.app/api/?username=pinto-hub&show_icons=true&theme=dracula) ![Top](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula)
 
 ## Languages
 
