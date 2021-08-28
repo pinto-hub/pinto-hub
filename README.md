@@ -13,25 +13,26 @@ const pinto = {
     code: ["Javascript", "Typescript", "Java"],
     technologies: {
         backEnd: {
-            jsTs: ["Node", "Express", "Spring"],
+            jsTs: ["Node", "Express", "npm"],
+            java: ["Spring", "Hibernate", "Maven"]
         },
         frontEnd: {
             SPA: ["Angular", "React"],
             SSG: ["Next"],
             CSSFramework: ["Bootstrap", "Tailwind"],
         },
-        mobileApp: ["Ionic"]
-        devOps: [],
+        mobileApp: ["Ionic"],
         databases: ["Mongo", "MySql", "sqlite"],
         baas: ["Firebase", "Heroku"],
-        testing: ["Jest", "Enzyme", "Mocha", "Chai", "Supertest"]
-        misc: ["Postman", "Git", "Redux", "Redux toolkit", "Rxjs", "Webpack", "Babel", "Socket.IO"]
+        testing: ["Jest", "Enzyme", "Mocha", "Chai", "Supertest"],
+        misc: ["Postman", "Git", "Redux", "Redux toolkit", "Rxjs", "Webpack", "Babel", "Socket.IO"],
+        devOps: [],
     },
 };
 ```
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub Stats:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pinto-hub&show_icons=true&locale=es&theme=dracula"></p>
+![Pinto stats](https://github-readme-stats.vercel.app/api?username=pinto-hub&show_icons=true&locale=es&theme=dracula)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
