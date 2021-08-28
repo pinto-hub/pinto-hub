@@ -13,7 +13,7 @@
 
 ## Stats
 [![Pinto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pinto&layout=compact&theme=dracula&v=2)](https://github.com/anuraghazra/github-readme-stats)
-![Top](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula) 
+[![Pinto's Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Pinto GitHub stats](https://github-readme-stats.vercel.app/api/?username=pinto-hub&show_icons=true&theme=dracula) -->
 
 ## Languages
