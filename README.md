@@ -1,15 +1,23 @@
-<h2>👋 Hi, I'm Pinto!</h1>
-<p><em>A passionate fullstack developer from Spain</em></p>
+<h3 align="center">Welcome to Pinto's profile!👋</h3>
+<p align="center"><em>A passionate fullstack developer from Spain</em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/Jepinher)
-[![Linkedin: Jesus Hermosell](https://img.shields.io/badge/-Pinto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-hermosell-8973aa175/)
-[![GitHub followers](https://img.shields.io/github/followers/pinto-hub?label=Follow&style=social)](https://github.com/pinto-hub)
+<p align="center">
+  <a href="https://twitter.com/Jepinher">
+    <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/jepinher?color=55960c&labelColor=488207&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/pinto-hub">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/pinto-hub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const pinto = {
     pronouns: "He" | "Him",
+    city: "Seville",
+    country: "Spain",
+    age: "27",
     code: ["Javascript", "Typescript", "Java"],
     technologies: {
         backEnd: {
