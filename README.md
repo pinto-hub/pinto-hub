@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Pinto!</h1>
+<h2>👋 Hi, I'm Pinto!</h1>
 <p><em>A passionate fullstack developer from Spain</em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/Jepinher)
