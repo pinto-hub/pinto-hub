@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/Jepinher)
 [![Linkedin: Jesus Hermosell](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/jesus-hermosell-8973aa175/)
-![GitHub followers](https://img.shields.io/github/followers/pinto-hub?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/pinto-hub?label=Follow&style=social)](https://github.com/pinto-hub)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
