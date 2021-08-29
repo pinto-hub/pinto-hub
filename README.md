@@ -42,9 +42,9 @@ const pinto = {
 <details>
   <summary><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub Stats</summary>
   <br/>
-  <img alt="Pinto's Github Stats" src="https://github-readme-stats-pinto-hub.vercel.app/api?username=pinto-hub&show_icons=true&locale=es&theme=dracula">
+  <img alt="Pinto's Github Stats" src="https://github-readme-stats-gilt-tau.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula">
   <br/>
-  <img alt="Pinto's Github Stats" src="https://github-readme-stats-pinto-hub.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula">
+  <img alt="Pinto's Github Stats" src="https://github-readme-stats-gilt-tau.vercel.app/api?username=pinto-hub&show_icons=true &theme=dracula">
 </details>
 
 <details>
