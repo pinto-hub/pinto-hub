@@ -51,7 +51,6 @@ const pinto = {
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub Stats
 ![Pinto's Top Stats](https://github-readme-stats-gilt-tau.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula)
-<span>&nbsp;</span>
 ![Pinto's Github Stats](https://github-readme-stats-gilt-tau.vercel.app/api?username=pinto-hub&show_icons=true&theme=dracula)
 
 
