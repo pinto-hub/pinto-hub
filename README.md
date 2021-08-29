@@ -1,5 +1,15 @@
-<h3 align="center">Welcome to Pinto's profile!👋</h3>
-<p align="center"><em>A passionate fullstack developer from Spain</em></p>
+<table width="100%" align="center"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem-zeta-rust.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-zeta-rust)
+
+  </td>
+  <td width="50%">
+    <h3 align="center">Welcome to Pinto's profile!👋</h3>
+    <p align="center"><em>A passionate fullstack developer from Spain</em></p>
+  </td>
+  </table>
 
 <p align="center">
   <a href="https://twitter.com/Jepinher">
