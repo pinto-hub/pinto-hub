@@ -40,7 +40,7 @@ const pinto = {
             CSSFramework: ["Bootstrap", "Tailwind"],
         },
         mobileApp: ["Ionic"],
-        databases: ["Mongo", "MySql", "sqlite"],
+        databases: ["Mongo", "MySql"],
         baas: ["Firebase", "Heroku"],
         testing: ["Jest", "Enzyme", "Mocha", "Chai", "Supertest"],
         misc: ["Postman", "Git", "Redux", "Redux toolkit", "Rxjs", "Webpack", "Babel", "Socket.IO"],
