@@ -7,7 +7,7 @@
   </td>
   <td width="50%">
     <h3 align="center">Welcome to Pinto's profile!👋</h3>
-    <p align="center"><em>A passionate junior developer from Spain</em></p>
+    <p align="center"><em>A passionate frontend developer from Spain</em></p>
   </td>
   </table>
 
