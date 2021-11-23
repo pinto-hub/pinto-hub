@@ -37,7 +37,7 @@ const pinto = {
         frontEnd: {
             SPA: ["Angular", "React"],
             SSG: ["Next"],
-            CSSFramework: ["Bootstrap", "Tailwind"],
+            CSSFramework: ["Bootstrap", "Tailwind", "Angular Material"],
         },
         mobileApp: ["Ionic"],
         databases: ["Mongo", "MySql"],
