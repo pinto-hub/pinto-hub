@@ -55,6 +55,8 @@ const pinto = {
 
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2013%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -67,5 +69,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/01/2022 00:32:33 UTC
+ Last Updated on 29/01/2022 02:21:01 UTC
 <!--END_SECTION:waka-->
