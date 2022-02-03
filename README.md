@@ -28,11 +28,10 @@ const pinto = {
     city: "Seville",
     country: "Spain",
     age: "27",
-    code: ["Javascript", "Typescript", "Java"],
+    code: ["Javascript", "Typescript"],
     technologies: {
         backEnd: {
-            jsTs: ["Node", "Express", "npm"],
-            java: ["Spring", "Hibernate", "Maven"]
+            jsTs: ["Node", "Express"]
         },
         frontEnd: {
             SPA: ["Angular", "React"],
@@ -43,7 +42,7 @@ const pinto = {
         databases: ["Mongo", "MySql"],
         baas: ["Firebase", "Heroku"],
         testing: ["Jest", "Enzyme", "Mocha", "Chai", "Supertest"],
-        misc: ["Postman", "Git", "Redux", "Redux toolkit", "Rxjs", "Webpack", "Babel", "Socket.IO"],
+        misc: ["Postman", "Git", "Redux", "Redux toolkit", "Rxjs", "Vite"],
         devOps: [],
     },
 };
