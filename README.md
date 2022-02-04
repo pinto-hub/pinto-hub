@@ -54,17 +54,23 @@ const pinto = {
 
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2021%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               53 mins             ████████░░░░░░░░░░░░░░░░░   32.48% 
+JSON                     49 mins             ███████░░░░░░░░░░░░░░░░░░   29.84% 
+CSS                      45 mins             ███████░░░░░░░░░░░░░░░░░░   27.5% 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
+TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 04/02/2022 00:36:02 UTC
+ Last Updated on 04/02/2022 02:12:52 UTC
 <!--END_SECTION:waka-->
