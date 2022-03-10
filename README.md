@@ -1,3 +1,25 @@
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Waka
+
+  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2056%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               43 mins             ███████████████████░░░░░░   77.9% 
+SCSS                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.57% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
+
+🔥 Editors: 
+VS Code                  55 mins             █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 10/03/2022 16:09:04 UTC
+<!--END_SECTION:waka-->
+
 <table width="100%" align="center"> 
   <tr>
   <td width="50%">
@@ -20,28 +42,6 @@
     <img alt="Linkedin" title="Follow me on Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<center>
-![Pinto's Top Stats](https://github-readme-stats-gilt-tau.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula)
-</center>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Waka
-
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2056%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               43 mins             ███████████████████░░░░░░   77.9% 
-SCSS                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.57% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
-
-🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 10/03/2022 16:09:04 UTC
-<!--END_SECTION:waka-->
+<div align="center">
+<img src="https://github-readme-stats-gilt-tau.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula" />
+</div>
