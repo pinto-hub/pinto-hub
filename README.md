@@ -20,34 +20,6 @@
     <img alt="Linkedin" title="Follow me on Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const pinto = {
-    pronouns: "He" | "Him",
-    city: "Seville",
-    country: "Spain",
-    age: "27",
-    code: ["Javascript", "Typescript"],
-    technologies: {
-        backEnd: {
-            jsTs: ["Node", "Express"]
-        },
-        frontEnd: {
-            SPA: ["Angular", "React"],
-            SSG: ["Next"],
-            CSSFramework: ["Bootstrap", "Tailwind", "Angular Material"],
-        },
-        mobileApp: ["Ionic"],
-        databases: ["Mongo", "MySql"],
-        baas: ["Firebase", "Heroku"],
-        testing: ["Jest", "Enzyme", "Mocha", "Chai", "Supertest"],
-        misc: ["Postman", "Git", "Redux", "Redux toolkit", "Rxjs", "Vite"],
-        devOps: [],
-    },
-};
-```
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub Stats
 ![Pinto's Top Stats](https://github-readme-stats-gilt-tau.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula)
 ![Pinto's Github Stats](https://github-readme-stats-gilt-tau.vercel.app/api?username=pinto-hub&show_icons=true&theme=dracula)
