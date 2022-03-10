@@ -20,7 +20,9 @@
     <img alt="Linkedin" title="Follow me on Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+<center>
 ![Pinto's Top Stats](https://github-readme-stats-gilt-tau.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula)
+</center>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Waka
 
