@@ -14,7 +14,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Waka
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,7 +33,7 @@ Notepad++                1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/04/2022 08:05:18 UTC
+ Last Updated on 01/04/2022 10:09:23 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
