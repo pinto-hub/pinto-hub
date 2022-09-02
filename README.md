@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Waka
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2024%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,7 +19,7 @@ VS Code                  32 hrs 11 mins      ███████████�
 ```
 
 
- Last Updated on 02/09/2022 20:04:00 UTC
+ Last Updated on 02/09/2022 22:03:42 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats-gilt-tau.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula" />
