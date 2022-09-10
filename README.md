@@ -21,5 +21,3 @@ VS Code                  21 hrs              ███████████�
 
  Last Updated on 10/09/2022 12:04:13 UTC
 <!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats-gilt-tau.vercel.app/api/top-langs/?username=pinto-hub&layout=compact&theme=dracula" />
