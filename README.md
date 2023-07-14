@@ -1,18 +1,22 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Wakatime
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C415%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C419%20hrs%2014%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 16 mins       █████████████████████░░░░   82.71 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2023 22:02:17 UTC
+ Last Updated on 14/07/2023 00:09:07 UTC
 <!--END_SECTION:waka-->
