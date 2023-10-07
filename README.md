@@ -7,13 +7,12 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 21 mins             █████████████████████████   99.90 % 
-GDScript3                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/10/2023 22:02:17 UTC
+ Last Updated on 07/10/2023 00:07:13 UTC
 <!--END_SECTION:waka-->
