@@ -7,13 +7,12 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 mins              ██████████████░░░░░░░░░░░   54.39 % 
-JSON                     4 mins              ███████████░░░░░░░░░░░░░░   45.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/02/2024 00:07:52 UTC
+ Last Updated on 03/02/2024 02:05:42 UTC
 <!--END_SECTION:waka-->
