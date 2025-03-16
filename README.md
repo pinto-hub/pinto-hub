@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Wakatime
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C514%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C510%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,5 +16,5 @@ VS Code                  1 hr 29 mins        ███████████�
 ```
 
 
- Last Updated on 15/03/2025 22:02:15 UTC
+ Last Updated on 16/03/2025 00:11:33 UTC
 <!--END_SECTION:waka-->
